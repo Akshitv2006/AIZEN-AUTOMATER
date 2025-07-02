@@ -43,23 +43,5 @@ pip install telethon asyncio colorama
 mkdir -p logs config exports
 6. Run the script:
 python NiftyPool.py
-## First-Time Setup
 
-# For Termux (Android)
 
-1. Set up storage access (important):
-termux-setup-storage
-2. Update Termux packages:
-pkg update && pkg upgrade -y
-3. Install required packages:
-pkg install python git -y
-4. Clone this repository:
-git clone https://github.com/HarshDhaka69/Toxic.git
-5. Navigate to the project directory:
-cd Toxic
-6. Install required Python packages:
-pip install telethon asyncio colorama
-7. Create necessary directories:
-mkdir -p logs config exports
-8. Run the script:
-python NiftyPool.py
