@@ -28,7 +28,7 @@ pkg install python git -y
 ```
 5. Clone this repository:
 ```
-git clone https://github.com/HarshDhaka69/Toxic.git
+git clone https://github.com/Akshitv2006/AIZEN-AUTOMATER.git
 ```
 6. Navigate to the project directory:
 ```
@@ -51,7 +51,7 @@ python NiftyPool.py
 1. Make sure Python 3.6+ is installed
 2. Clone this repository:
 ```
-git clone https://github.com/HarshDhaka69/Toxic.git
+git clone https://github.com/Akshitv2006/AIZEN-AUTOMATER.git
 ```
 4. Navigate to the project directory:
 ```
