@@ -15,33 +15,31 @@ A powerful Telegram automation tool that allows you to manage multiple accounts 
 ### For Termux (Android)
 
 1. Set up storage access (important):
-termux-setup-storage
+```termux-setup-storage```
 2. Update Termux packages:
-pkg update && pkg upgrade -y
+```pkg update && pkg upgrade -y```
 3. Install required packages:
-pkg install python git -y
+```pkg install python git -y```
 4. Clone this repository:
-git clone https://github.com/HarshDhaka69/Toxic.git
-5. Navigate to the project directory:
-cd Toxic
-6. Install required Python packages:
-pip install telethon asyncio colorama
-7. Create necessary directories:
+```git clone https://github.com/HarshDhaka69/Toxic.git```
+6. Navigate to the project directory:
+```cd Toxic```
+7. Install required Python packages:
+```pip install telethon asyncio colorama```
+8. Create necessary directories:
 mkdir -p logs config exports
-8. Run the script:
-python NiftyPool.py
+9. Run the script:
+```python NiftyPool.py```
 ### For Windows/Linux/Mac
 
 1. Make sure Python 3.6+ is installed
 2. Clone this repository:
-git clone https://github.com/HarshDhaka69/Toxic.git
+git clone ```https://github.com/HarshDhaka69/Toxic.git```
 3. Navigate to the project directory:
-cd Toxic
+```cd Toxic```
 4. Install required packages:
-pip install telethon asyncio colorama
+```pip install telethon asyncio colorama```
 5. Create necessary directories:
 mkdir -p logs config exports
 6. Run the script:
-python NiftyPool.py
-
-
+```python NiftyPool.py```
