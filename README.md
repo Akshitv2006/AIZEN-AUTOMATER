@@ -32,7 +32,7 @@ git clone https://github.com/Akshitv2006/AIZEN-AUTOMATER.git
 ```
 6. Navigate to the project directory:
 ```
-cd Toxic
+cd AIZEN-AUTOMATER
 ```
 8. Install required Python packages:
 ```
@@ -44,7 +44,7 @@ mkdir -p logs config exports
 ```
 10. Run the script:
 ```
-python NiftyPool.py
+python ToolPool.py
 ```
 ### For Windows/Linux/Mac
 
@@ -55,15 +55,17 @@ git clone https://github.com/Akshitv2006/AIZEN-AUTOMATER.git
 ```
 4. Navigate to the project directory:
 ```
-cd Toxic
+cd AIZEN-AUTOMATER
 ```
 5. Install required packages:
 ```
 pip install telethon asyncio colorama
 ```
 6. Create necessary directories:
+```
 mkdir -p logs config exports
+```
 7. Run the script:
 ```
-python NiftyPool.py
+python ToolPool.py
 ```
